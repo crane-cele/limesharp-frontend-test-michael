@@ -1,3 +1,15 @@
+/* src/index.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: 'Gotham-Bold';
+    src: url(./assets/Gotham-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'ProximaNova-Regular';
+    src: url(./assets/ProximaNova-Regular.ttf);
+}
